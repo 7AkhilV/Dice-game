@@ -39,3 +39,23 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.dice-roll{
+  text-align: center;
+  margin-top: 35px;
+}
+
+.roll{
+  background-color: rgb(207, 84, 84);
+  height: 60px;
+  width: 60px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  font-size: 1.5rem;
+  color: aqua;
+}
+
+.roll:hover{
+  border-color: rgb(114, 210, 224);
+}
+
